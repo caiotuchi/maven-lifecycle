@@ -1,8 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.project.HelloIntegrationTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.273 s <<< FAILURE! - in com.project.HelloIntegrationTest
-com.project.HelloIntegrationTest.testHelloEndpoint  Time elapsed: 5.193 s  <<< ERROR!
-java.net.ConnectException: Conexão recusada (Connection refused)
-	at com.project.HelloIntegrationTest.testHelloEndpoint(HelloIntegrationTest.java:21)
-
